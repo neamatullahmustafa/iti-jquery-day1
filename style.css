@@ -1,0 +1,28 @@
+#img,
+button ,img{
+    margin: 10px auto;
+    display: block;
+    border-radius: 50px;
+    padding: 10px;
+
+}
+h2 ,p,h1{text-align: center;}
+img,p{width: 90%;margin: auto;
+margin-bottom: 30px;}
+p{display: none;
+}
+button {
+    outline: none;
+    border: none;
+    background-color: blue;
+}
+
+#img {
+    background-image: url("./images/meal-3.jpg");
+    width: 500px;
+    height: 500px;
+}
+#content{display: flex;
+align-items: center;
+align-items: center;
+height: 100vh;}
