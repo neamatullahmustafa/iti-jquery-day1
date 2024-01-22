@@ -1,1 +1,1 @@
-# iti-jquery-day1
+# iti-jquery
